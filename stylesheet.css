@@ -1,0 +1,179 @@
+body {
+	background-color:yellow;
+}
+
+#nav {
+background-color: darkgreen;
+height: 35px;
+font-size: 25px;
+font-weight:bold;
+font:Verdana, Geneva, Tahoma, sans-serif;
+ 
+}
+ 
+#nav ul {
+   
+padding: 0;
+margin: 0;
+list-style-type: none;
+text-align: center;
+ 
+}
+ 
+#nav li {
+   
+display: inline;
+padding:95px;
+vertical-align:middle;
+}
+ 
+#nav a {
+   
+text-decoration:none;
+padding: 8px 8px 8px 8px;
+color: white;
+vertical-align:middle
+}
+ 
+#nav a:hover {
+ 
+color: black;
+background-color:white;
+}
+
+
+
+
+
+p,ul{
+
+color:rgb(108,0,0);
+
+font-size:25px;
+
+
+
+}
+
+
+
+legend{
+
+color:red;
+
+font-size:25px;
+
+}
+
+
+
+.intrests{
+
+color:rgb(220,103,197);
+
+font-size:25px;
+
+}
+
+
+
+#yesno {
+
+color:rgb(10,154,74);
+
+font-size:25px;
+
+}
+
+
+
+#details {
+
+color:rgb(108,0,0);
+
+}
+
+
+
+img{
+
+    margin-left:270px;
+
+    margin-right: 400px;
+
+    width:700px;
+
+    height: 500px;
+
+}
+
+
+
+#link a:hover{color:red;
+
+background-color:white;}
+
+
+
+h2{
+
+color:rgb(53,49,232);
+
+font-size:30px;
+
+text-decoration:none;
+
+font-weight:bolder;
+
+text-align:center;
+
+}
+
+
+
+h3{
+
+color:rgb(53,49,232);
+
+font-size:26px;
+
+text-decoration:underline ;
+
+font-weight:bold;
+
+
+
+}
+
+
+
+h4{
+
+color:rgb(53,49,232);
+
+
+
+text-decoration:none;
+
+font-weight:bold;
+
+font-size:25px;
+
+}
+
+
+
+
+
+h5{
+
+color:rgb(53,49,232);
+
+
+
+text-decoration:none;
+
+font-weight:bold;
+
+font-size:25px;
+}
